@@ -8,7 +8,7 @@ In this course you will build a strong software development foundation and learn
 ### Instructional Staff
 Instructor: Brad Smialek,  email: brad.smialek@codefellows.com, slack: @BradSmialek
 
-[link to Canvas](https://canvas.instructure.com/courses/1753667)
+[Link to Canvas](https://canvas.instructure.com/courses/1805879)
 ### Tips for Success
 - Get ready to tackle some seriously ambitious material! You'll have the most success if you:
 - Take notes during class.
