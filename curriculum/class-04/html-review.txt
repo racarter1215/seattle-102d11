@@ -1,0 +1,19 @@
+Remember about HTML?
+
+hyper-text mark-up language
+tags
+
+opening tags
+closing tags
+<header>content or text</header>  = Element
+
+structures the page
+
+<nav></nav>
+<p> </p>
+<body></body>
+<section></section>
+
+not whitespace sensitive
+
+

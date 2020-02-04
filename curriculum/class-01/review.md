@@ -1,8 +1,9 @@
 # Markdown review
 
 <!-- whitespace sensitive -->
+<!-- two spaces after end of line or add a blank line between them -->
+jiberrish
 
-jiberrish  
 jobberish
 
 <!-- unordered list -->
@@ -68,8 +69,11 @@ repository - filing cabinet that holds our projects files
 
 Github
   - stores files
-  - dev collaberation
+  - dev collaboration
   - in the cloud
     - centralized location
 
+
+* dragonfly  
+*dragonfly*
 

@@ -1,0 +1,22 @@
+Github and Git review
+
+Git is version control system
+  - keeps history of changes (versions of files)
+  - distributed software(on network)
+  - on your local machine
+
+Github is where we store the code(our Repos)
+  - in the cloud (centralized location)
+  - collaboration on code
+
+Gitflow
+  Add
+  Commit -m "message here"
+  Push -  push changes to remote or origin
+
+  Retrieve changes from Github
+  - git fetch  -  to see changes
+  - git pull  -  combination of fetch and merge
+
+indicator file hasn't been saved  
+  - circle on your file tab

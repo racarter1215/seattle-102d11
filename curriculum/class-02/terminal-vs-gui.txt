@@ -1,0 +1,23 @@
+What do you remember?
+
+ ide  integrated development environment
+
+ debugger
+ auto complete
+ language recognition
+ syntax highlighting 
+ indentation
+ cursor suggestions
+ auto completion
+ editing features
+references external material
+
+Terminal is/can:
+
+efficiency -faster
+increased productivity
+power scripting 
+chaining commands
+customization
+control
+use with Git 
